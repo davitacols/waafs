@@ -1,0 +1,31 @@
+<svg width="540" height="160" viewBox="0 0 540 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="12" y="24" width="112" height="112" rx="32" fill="#172231"/>
+  <path
+    d="M34 50L49 101L66 61L84 101L101 50"
+    stroke="#F9F1E5"
+    stroke-width="11"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <circle cx="96" cy="53" r="8" fill="#C46D36"/>
+  <text
+    x="150"
+    y="82"
+    fill="#172231"
+    font-size="58"
+    font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Georgia, serif"
+    letter-spacing="-1.2"
+  >
+    Waffins
+  </text>
+  <text
+    x="152"
+    y="114"
+    fill="#5F6C79"
+    font-size="17"
+    font-family="Avenir Next, Segoe UI, Helvetica Neue, Arial, sans-serif"
+    letter-spacing="3.5"
+  >
+    SMALL BUSINESSES. OUR BUSINESS.
+  </text>
+</svg>
