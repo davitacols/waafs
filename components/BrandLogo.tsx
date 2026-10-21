@@ -33,7 +33,7 @@ export default function BrandLogo({
       </svg>
 
       <span className="block min-w-0">
-        <span className={`block font-serif text-3xl leading-none ${titleClass}`}>Waffins</span>
+        <span className={`block font-serif text-3xl leading-none ${titleClass}`}>Waafins</span>
         {showTagline ? (
           <span
             className={`mt-1 block text-[0.68rem] font-semibold uppercase tracking-[0.24em] ${subtitleClass}`}
