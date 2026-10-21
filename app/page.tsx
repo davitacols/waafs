@@ -51,8 +51,8 @@ export default function Home() {
     <div className="site-shell py-10 md:py-16">
       <section className="grid gap-8 lg:grid-cols-[1.08fr,0.92fr] lg:items-start">
         <div className="animate-fade-up">
-          <span className="eyebrow">Waffins accounting, tax, and compliance for ambitious small businesses</span>
-          <h1 className="display-title mt-6 max-w-4xl">Waffins</h1>
+          <span className="eyebrow">Waafins accounting, tax, and compliance for ambitious small businesses</span>
+          <h1 className="display-title mt-6 max-w-4xl">Waafins</h1>
           <p className="mt-4 font-serif text-2xl text-[color:var(--ink)] sm:text-3xl">
             Small businesses. Our business.
           </p>

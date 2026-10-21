@@ -14,8 +14,8 @@ const brandIconSvg = `
 const brandIcon = `data:image/svg+xml,${encodeURIComponent(brandIconSvg)}`;
 
 export const metadata: Metadata = {
-  title: 'Waffins | Small businesses. Our business.',
-  description: 'Waffins provides accounting, tax, payroll, and compliance support for growing small businesses.',
+  title: 'Waafins | Small businesses. Our business.',
+  description: 'Waafins provides accounting, tax, payroll, and compliance support for growing small businesses.',
   icons: {
     icon: brandIcon,
     shortcut: brandIcon,
